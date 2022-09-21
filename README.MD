@@ -1,7 +1,7 @@
 #### Welcome to my profile!
 
 ```js
-    const meow = {
+const meow = {
     name: "14x0",
     age: 16,
     languages: ["javascript", "html", "css", "golang", "python"],
